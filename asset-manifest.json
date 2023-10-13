@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.df762a40.css",
-    "main.js": "/static/js/main.50824938.js",
+    "main.css": "/static/css/main.43683a06.css",
+    "main.js": "/static/js/main.ecdcf4e4.js",
     "static/js/787.552a9987.chunk.js": "/static/js/787.552a9987.chunk.js",
     "static/media/app.jpg": "/static/media/app.3d88cf022a0c75b53d46.jpg",
     "static/media/iot.jpg": "/static/media/iot.6315f70970bba687ac49.jpg",
@@ -9,12 +9,12 @@
     "static/media/web.jpg": "/static/media/web.0ce236945f5b0ce151c9.jpg",
     "static/media/github.svg": "/static/media/github.374e3084ff21dc3bf5335cdd22e7edc8.svg",
     "index.html": "/index.html",
-    "main.df762a40.css.map": "/static/css/main.df762a40.css.map",
-    "main.50824938.js.map": "/static/js/main.50824938.js.map",
+    "main.43683a06.css.map": "/static/css/main.43683a06.css.map",
+    "main.ecdcf4e4.js.map": "/static/js/main.ecdcf4e4.js.map",
     "787.552a9987.chunk.js.map": "/static/js/787.552a9987.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df762a40.css",
-    "static/js/main.50824938.js"
+    "static/css/main.43683a06.css",
+    "static/js/main.ecdcf4e4.js"
   ]
 }
