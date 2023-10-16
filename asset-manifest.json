@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.43683a06.css",
-    "main.js": "/static/js/main.ecdcf4e4.js",
+    "main.css": "/static/css/main.478711fd.css",
+    "main.js": "/static/js/main.cd3b7384.js",
     "static/js/787.552a9987.chunk.js": "/static/js/787.552a9987.chunk.js",
-    "static/media/app.jpg": "/static/media/app.3d88cf022a0c75b53d46.jpg",
-    "static/media/iot.jpg": "/static/media/iot.6315f70970bba687ac49.jpg",
-    "static/media/main.webp": "/static/media/main.520403e930dbbbef471f.webp",
-    "static/media/web.jpg": "/static/media/web.0ce236945f5b0ce151c9.jpg",
+    "static/media/web2.jpeg": "/static/media/web2.517e8431c2643d099a73.jpeg",
+    "static/media/iotDev.jpeg": "/static/media/iotDev.02d2e2358f1fd48ab9ac.jpeg",
+    "static/media/appDev.jpeg": "/static/media/appDev.f017a0604b4374642b3d.jpeg",
+    "static/media/dashBoard.jpeg": "/static/media/dashBoard.1d4689f2fccfa8016159.jpeg",
     "static/media/github.svg": "/static/media/github.374e3084ff21dc3bf5335cdd22e7edc8.svg",
     "index.html": "/index.html",
-    "main.43683a06.css.map": "/static/css/main.43683a06.css.map",
-    "main.ecdcf4e4.js.map": "/static/js/main.ecdcf4e4.js.map",
+    "main.478711fd.css.map": "/static/css/main.478711fd.css.map",
+    "main.cd3b7384.js.map": "/static/js/main.cd3b7384.js.map",
     "787.552a9987.chunk.js.map": "/static/js/787.552a9987.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43683a06.css",
-    "static/js/main.ecdcf4e4.js"
+    "static/css/main.478711fd.css",
+    "static/js/main.cd3b7384.js"
   ]
 }
