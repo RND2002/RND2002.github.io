@@ -10,7 +10,8 @@ import Services from './components/Services';
 import WhatWeDo from './components/WhatWeDo';
 import WhoWeAre from './components/WhoWeAre';
 import Customers from './components/Customers';
-
+//npm runbuild
+//npmrun deploy
 
 function App() {
   return (

@@ -12,7 +12,7 @@ const Services = () => {
         <div className=' border-wt border rounded-lg  text-center  hover:bg-navColor'>
           <img className='h-72 w-full rounded-lg mx-auto object-cover' src={web} alt='' />
           <div className='p-3  mt-4'>
-            <span className='text-wt font-bold text-3xl'>Web Development</span>
+            <span className='text-wt font-bold text-2xl'>Web Development</span>
           </div>
         </div>
         <div className='border-wt border rounded-lg  text-center hover:bg-navColor'>
@@ -24,7 +24,7 @@ const Services = () => {
         <div className='border-wt border rounded-lg text-center hover:bg-navColor'>
           <img className='h-72 w-full rounded-lg mx-auto object-cover' src={iot} alt='' />
           <div className=' p-3 mt-4 '>
-            <span className='text-wt font-bold text-3xl'>Desktop Apps</span>
+            <span className='text-wt font-bold text-2xl'>Desktop Apps</span>
           </div>
         </div>
       </div>
